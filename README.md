@@ -1,3 +1,2 @@
-# vengao.github.io
-我的丑鸡儿博客
+### 我的主页——vengao.github.io
 
